@@ -1,0 +1,1 @@
+create table product(product_id uuid not null PRIMARY KEY, name varchar(255) not null)

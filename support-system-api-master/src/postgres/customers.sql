@@ -1,0 +1,1 @@
+create table customers(customer_id uuid not null PRIMARY KEY, name varchar(255) not null, email VARCHAR(255), address varchar(255), passwords varchar(255) not null, roles VARCHAR(255))
