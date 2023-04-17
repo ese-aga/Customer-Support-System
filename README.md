@@ -1,4 +1,4 @@
-Note: Applications were built with React, Node, Express and Postgres
+Note: Applications were built with React, Node, Express and Postgres. An admin should be create via Postman
 # FOR THE FRONTEND, RUN THE FOLLOWING COMMAND
 1. run npm install
 2. run npm start
